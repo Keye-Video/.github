@@ -13,14 +13,8 @@
 
 <p align="center">
   <a href="https://keye-video.github.io/"><img src="https://img.shields.io/badge/Homepage-keye--video.github.io-F87C4C?style=flat-square&labelColor=221916" alt="Homepage" /></a>
-  <a href="https://keye-video.github.io/#publications"><img src="https://img.shields.io/badge/Publications-10_Papers-FEDCCC?style=flat-square&labelColor=221916&logoColor=221916" alt="Publications" /></a>
+  <a href="https://keye-video.github.io/#publications"><img src="https://img.shields.io/badge/Publications-Selected_Works-FEDCCC?style=flat-square&labelColor=221916" alt="Publications" /></a>
   <a href="https://keye-video.github.io/#team"><img src="https://img.shields.io/badge/Team-Keye_Video-D95726?style=flat-square&labelColor=221916" alt="Team" /></a>
-</p>
-
-<p align="center">
-  <a href="https://keye-video.github.io/">
-    <img src="https://keye-video.github.io/assets/og/home.jpg" alt="Keye Video Team — Interactive Research Constellation" width="840" />
-  </a>
 </p>
 
 ---
